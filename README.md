@@ -1,5 +1,6 @@
 Buckle
 ======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tomas/buckle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Pure JS ZIP extractor, that preserves file attributes. Based on a modified version of DecompressZip.
 
